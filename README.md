@@ -56,6 +56,24 @@ Through INE Security, Hack The Box, and TryHackMe labs, I've practiced network e
 
 I've also participated in Capture The Flag competitions organized by Talent4Cyber and Comillas ICAI.
 
+## Projects
+
+### [AutoRecon Toolkit](https://github.com/Balbuenaa67/AutoRecon-Toolkit)
+
+Python-based network reconnaissance and reporting tool developed to automate common reconnaissance tasks during authorized security assessments.
+
+**Key Features:**
+- Automated Nmap scanning with configurable TCP scan profiles.
+- Nmap XML parsing and service identification.
+- Service-specific enumeration recommendations.
+- Markdown and JSON report generation.
+- Command-line interface with configurable output directories.
+- Automated testing with pytest and GitHub Actions.
+
+**Technologies:** Python, Nmap, pytest, Git, GitHub Actions
+
+**Release:** [v1.0.0](https://github.com/Balbuenaa67/AutoRecon-Toolkit/releases/tag/v1.0.0)
+
 ## Contact
 
 - LinkedIn: [linkedin.com/in/alvaro-balbuena](https://www.linkedin.com/in/alvaro-balbuena/)
